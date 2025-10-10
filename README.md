@@ -11,7 +11,7 @@
   <img src='pipeline_ham.png' width='300'>
 </p>
 
-This repository implements the Hamiltonian classifier and its comparison with off-the-shelf methods as proposed in the paper [An Efficient Quantum Classifier Based on Hamiltonian Representations](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D). It contains the code to perform image and text classification on various datasets, a notebook to generate plots and tables, and the data needed to replicate them.
+This repository implements the Hamiltonian classifier and its comparison with off-the-shelf methods as proposed in the paper [An Efficient Quantum Classifier Based on Hamiltonian Representations](https://arxiv.org/abs/2504.10542). It contains the code to perform image and text classification on various datasets, a notebook to generate plots and tables, and the data needed to replicate them.
 
 ><details>
 ><summary> <b>Abstract</b> </summary>
